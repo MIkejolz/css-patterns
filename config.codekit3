@@ -23,7 +23,7 @@
 		"oAP": "/docs/index.html",
 		"oF": 0
 		},
-	"/library/_hierarchy.scss": {
+	"/library/_house.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -31,33 +31,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/docs/library/_hierarchy.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/library/_layout.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/docs/library/_layout.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/library/_margins.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/docs/library/_margins.css",
+		"oAP": "/docs/library/_house.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
@@ -88,19 +62,6 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/library/_typography.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/docs/library/_typography.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"/library/_variables.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -121,6 +82,14 @@
 		"oA": 0,
 		"oAP": "/docs/LICENSE",
 		"oF": 0
+		},
+	"/package.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/docs/package-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
 		},
 	"/README.md": {
 		"cB": 0,
